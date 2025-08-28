@@ -56,6 +56,9 @@ Schematic and layout files are included in this repository.
 
 ---
 
+
+![WhatsApp Image 2025-08-28 at 19 59 33_ea85219a](https://github.com/user-attachments/assets/cff2ff39-6e7f-415c-b6bf-cd968a28d278)
+
 ## 🏷️ Keywords
 `Micromouse` `ESP32` `ToF Sensor` `MPU6050` `TB6612FNG` `N20 Motors` `Encoders` `PCB Design` `JLCPCB` `Robotics` `Embedded Systems`
 
